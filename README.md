@@ -24,7 +24,7 @@
 
 
 ### Язык программирования выбран: 
-![C#](https://top10a.ru/wp-content/uploads/2019/06/6-3.png)
+![C#]([https://top10a.ru/wp-content/uploads/2019/06/6-3.png](http://www.rkprojects.in/assets/images/chash.jpeg))
 
 
 ## Описание кода ✏
