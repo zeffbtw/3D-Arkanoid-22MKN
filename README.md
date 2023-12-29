@@ -1,4 +1,4 @@
-<h1 align="center">Arcanoid 3D</h1> 
+<h1 align="center">Arkanoid 3D</h1> 
 
 Задача по предмету 3D Моделирования (22 группа).
 
